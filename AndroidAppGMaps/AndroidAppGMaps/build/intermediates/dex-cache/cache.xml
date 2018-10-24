@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\de4ac382690e6fab3fd7419bb092b636f8441d1a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_c29951ed5e735e9935849e4b71ae6abaf006a030.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\03991ecf4e8cfab1a32a781f7def65b1e10b1c45\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_559361ed13efd91c65562c8d3ca26ae434c9144a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\6881fab3ccaec6461781801bc44e17f6e34f3580\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_d584caa7c6354e2db5b97cc108a2a05e774e7b90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\55016c2b444cddb72e2135efbc30b5d9b8b57b97\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_35b2def91230827fbf3a480f873f1d12d162e57c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\db82d9d73f8a37a0411acd25d719eb38596bf802\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_1f64b3d4e3dd63b8a1e976c30f0e3996ea60a7dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\779c80951fe6cb7143438390324b86bfb763d61b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_9601703239fc750fadbc3aed75b5ede820e73b6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\ca3b835fae057cda76e5bd51be2bf5f128f437ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_99b14e14a28adec8eaa0ca8bcdbadff3307e24ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\e0c43d28744bcc4c8d47253cd52a90e11cd5c8e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_e0b6a7051d7afcb084850d85b99b3549421795a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\7003ecadb024bb3393a58afafdd65551b4621e22\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_1d3579c7dedb27e8cfaddb351047bc600627f8ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\bbd56455c013478859a435ae15d5f95bba7d8526\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_ffff453271c6eb36b0b6d6f305a07fc291d162d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\84f1e1e7a8acb25e1c5f032e1e01bd343d98f596\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_ff12b8a6875fec5ab60eb9a8d1d272b2b7340844.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\8aadca45bd82ecb369862fb65d32c7d5f01d52ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_13e6da6398ee5b2651e51a21f12fcada47a9d989.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\b027bf8c3c9334fce5b6984410c96d140264eaad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_e9295286b2f1403edcdc519301fb57da84fa9575.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\91a8ac62e6fcbaa0e0a16d73ce13e31460c8d089\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_c53cc13c7c87fc28f1aa6eb89e1cf1bae8f97a51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\596c1b8b4337eacfd8f471bb84de9b57031dbb85\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_f9d8c42a8062b4a44f3ea39d842411e25adb1d57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\20da034078d8fdcd42e27ded238719e52c897dfb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_764f7319b2c7fb8a262012cfa96706ca94833227.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\3ef3372d8aea85928794ffa99351d07b8d5433ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_9c23005f85e27b3ad57eb8c83b8f2c8bf5b7592a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\da38dc7b4f3c789d9a088ed864656b1b003c6727\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_be8e76f3df2f4cc7ad7617ea301c36befca984b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\b3fabb12119d16de814ac5f695e6433230d2bb08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_09989fb040d8a16ac32bd97e4b58f073a62db86c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\fd81565ee2899c4ebb68d6eececb2a5f662b609c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_b43feaf77695b11ac91459250c2424c8b7f18eb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\6322bac8210fe202c9460abb27274088f401dbbe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_7b38293a9f3295a43a7c2b21256a7cc1af603eb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\d8fd5f6f27218f7c519b5083f000f5d8d1e8d5e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_cf98991583b33804b55caa38ab4895a3c908a521.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\5c3fdaa42df30718574ae701a0c0e804aa65f2cc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_fd0e33ba79d2384d37d0f69c305d4218aabdf264.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\1d5d76fb193eba1dd5f81703702e8ebeb5174d91\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_3a7a02a5fe92238235437d57844d6df923853b71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\05fbaedec94df6c0cc01df6afec87ba7f8ee2fbe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_2114ea964f800c7d586247bbb91e2051ab2967b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\77384e1404ab92e2651200fcaba2c00397e86306\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_88a91caf8dfc33d984ad9f9533a7d57442ec6ed7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\27c53a84886797b10150ec753caa1ac47784c6da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_5ddfe5742d1e6298e192fbb9b1005c7fda93ce2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\d7112cfedd1f397f376d06c52dafe11c244495b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_0e81d9d9f263931c34402356458f5bf2f7bed993.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\c321762dad3653b97ae9d2204da4d570cf0d512f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_d34e6be64deffb1846484e71f22dfe8f0ca17cb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\b179732080d6eb4e6e8747a693617849f11600cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_6211b839ba864054c01afb72d302a11cf0bf7326.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\747985afa1c291fd52f4f0c0bb485a7fff271906\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_c7403e86c0ab97f7a323a5368b391fa0a056a330.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\53c60540d14dcfa18520e3e9933c3dafb3c341ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_a8433c52cd53c708e055e3473409f2e5b9d58bb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\eddfafcca42835911c5aa04bb03c6b9095138871\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_0b2a93d56a43a9950dbc1ab9c7ab48d411768ca7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\af27e7cbf2327bdf167fc164e4cb934f46f0937d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_eff930118527d92cff1ab25b48b376be7db511ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\5b0bc9424deaa07f127ead1e9c65ce763e6953ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_960d926d82c5d46bcd67b232dc1027159307f026.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\d1a937aa56aab88de6ace263cc21f40ae10a8686\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_33eb283ef9715143b6b4a03da47ca99e74f35a19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\e140baea1a45974faed5d66a612afd5debe9a4fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_b1e9051d8ee202133ee5299b1b114e189fe00eae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\bfa516ec2886f745fc4f20cb2d8647cc85a40ed5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_08fa0208cca0743c257abfd85c650b31c23f0ea8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\a25f4802d96419ba3ecc57391b50342a75998448\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_02f85f03be695b33e83062aab202f780bcc8ab58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\346365e57fabc4e8504ba8aab2d5276e4d82b722\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_0df0332e01066b606e08b9e2d3ffca6f8e0f2376.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\50bca52188d2d5406a2d64a4131def217fec3883\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_efd9daaf1602fbf5bb5b7853852d60418e22f365.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\7c51c4fb1d61329a49e1cfb7ef66d31fa6f9dede\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_1094795b18cdfb695da9ab13bdc6b92a7f22cc43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_a87eb4edd1c6cc93333ce51024c2b8b75e34dcf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\7553991a13969002d5fa1fb6dc3432f9691f3264\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_9b5d93dfb6430ffb5f80411a6c11fa28a6e22970.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\8c9802ab90a5e449f424afbb68e57fab9cf34020\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_74882cf6e9e17e6c91ce45f2e6a46871c517cc1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\23183c43a9f605814e2ba347a1feeb5a5740a8ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_de741bef5b6d0e581077da1bd6d015b14a67b28b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\eb06006e74ae102313035b959a4e2ba169f0f450\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_bc3a6e058adfeb98dcff4cf65136a67636fb3a55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\ef729ecc9be7ce05df29f140168da7eea5b6f958\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_39aae1e160675608c7e3d1698818e5d16c90e338.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\8a25faacd472433ebd41246bb20588a75e1a2d74\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_6e21b13d3c95bc1c0c668bec0474145ff39b2b2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\d6472c445b4f8738819c096c782345ad4de129dc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_c6a11e33061a7ffd63c6233d6f94597c14b9a093.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\dc63de0f93c2bb8b1460b5251a86733623f4329d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_7242b0db7b20b00fef28b087f2e526ebb060943c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\7489a2bd26c95cea0705f7a45e5f77a3e0991bd1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_7f05c068fe154b0d0b62287bbf9678305a070e20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\9e627e24ea7a06ad106176d74e766b6a7d1ee206\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_e7a3076b3bc8cd6b41f81f9444988cd528543e78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\39965f8eda6a5dce8f23e1f33cc0471a5d179c67\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_c1ecf4393dc95c5ccddcef645d35559e457f92ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\b33d2d2e33b52b49c88e957a12e5f9d720c1a9f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_4311229e884dff3cbfa445436975a0e90b5af93f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\95aa06229682ca364df8d6cb8e42f663bc96d16c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_69d18cea19e9e78c28cf79cf593bc7c5bcc34acb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\115f1fc078ef198240eb68054c61c639d33ab2d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_c844d9fe55a1cbc2dac678dd7f548215b205c211.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\d745e280fb0b6960f0a7241accd79f98b0f6c944\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_bbb435036bc9f413359af7dff0e0d892e184daa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\b0ca06025d14e1a25bc32d778d48afbad76c1151\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_e66087fdfb4d1553d2d080aa3df2c685d00befb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\d56f7716292adea47c2ab9ffeb5ff2fe1d095123\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_27d23e7a6138d4849f0e6449c30146b18ef774cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\e1a474ee7adada7e30f083bdcbb5c8ed2c2b4560\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_d06dd1bb3c75f1473a6cb07d95f319969d1fd9bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\d912e917c526afc5519f72e948c286577b1ab473\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_2042d690fcaafc014cd4eb8f143ee9c37d369de7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bhavy\.android\build-cache\a67e4eb5a4d4e355989891500f4b15444fc396f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="C:\Users\bhavy\Downloads\Grp25_inClass12-1\Grp25_inClass12\Group25_InClass12\app\build\intermediates\pre-dexed\debug\classes_7d413db1ab8f61083d2c9db5738bc42f5bdbc428.jar" />
+    </item>
+
+</items>
